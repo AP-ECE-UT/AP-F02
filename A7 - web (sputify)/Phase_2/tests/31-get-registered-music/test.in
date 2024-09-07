@@ -1,0 +1,31 @@
+POST signup ? username <Artist> password <meow> mode <artist>
+POST logout ?
+POST login ? username <Artist> password <meow>
+POST music ? title <Song 1> path <~/Song1.mp3> year <2021> album <meow-meow> tags <instrumental;classic> duration <00:03:12>
+POST music ? title <Song 2> path <~/Song2.mp3> year <2022> album <meow-meow> tags <instrumental;classic> duration <00:03:22>
+POST music ? title <Song 3> path <~/Song3.mp3> year <2023> album <meow-meow> tags <instrumental> duration <00:03:33>
+POST signup ? username <Artist2> password <meow> mode <artist>
+POST music ? title <Song 4> path <~/Song4.mp3> year <2021> album <hooray!!> tags <Jazzz;classic> duration <00:07:12>
+POST music ? title <Song 5> path <~/Song5.mp3> year <2022> album <hooray!!> tags <Jazzz;classic> duration <00:07:22>
+POST music ? title <Song 6> path <~/Song6.mp3> year <2023> album <hooray!!> tags <Jazzz> duration <00:07:33>
+POST logout ?
+POST signup ? username <simple-user> password <meow> mode <user>
+POST like ? id <2>
+POST like ? id <3>
+POST like ? id <4>
+POST logout ?
+POST signup ? username <simple-user2> password <meow> mode <user>
+POST like ? id <1>
+POST like ? id <2>
+POST like ? id <3>
+POST like ? id <4>
+POST like ? id <5>
+POST like ? id <6>
+POST logout ?
+POST signup ? username <simple-user3> password <meow> mode <user>
+POST like ? id <1>
+POST like ? id <2>
+POST like ? id <3>
+POST logout ?
+POST login ? username <Artist> password <meow>
+GET registered_musics ? 

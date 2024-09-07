@@ -1,0 +1,3 @@
+POST signup ? username <Misagh> password <meow> mode <artist>
+POST logout ?
+POST signup ? username <Misagh> password <gooor> mode <user>

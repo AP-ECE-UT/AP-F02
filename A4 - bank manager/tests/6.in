@@ -1,0 +1,54 @@
+create_short_term_deposit 1 1 1000
+create_short_term_deposit 6 3 3000
+create_short_term_deposit 6 3 6000
+create_long_term_deposit 6 3 1 2 8000
+create_short_term_deposit 6 4 9000
+create_short_term_deposit 5 3 8000
+create_short_term_deposit 5 1 3000
+create_short_term_deposit 5 1 4000
+create_long_term_deposit 5 1 2 4 8000
+create_gharzolhasane_deposit 2 1 1000
+pass_time 6
+inventory_report 1 1 1
+inventory_report 6 3 2
+inventory_report 5 3 3
+inventory_report 5 3 4
+calc_money_in_bank 6 3
+calc_money_in_bank 6 4
+calc_money_in_bank 1 1
+calc_money_in_bank 5 1
+calc_money_in_bank 5 3
+calc_all_money 5
+calc_all_money 1
+calc_all_money 6
+calc_all_money 2
+pass_time 3
+inventory_report 1 1 1
+inventory_report 6 3 2
+inventory_report 5 3 3
+inventory_report 5 3 4
+calc_money_in_bank 6 3
+calc_money_in_bank 6 4
+calc_money_in_bank 1 1
+calc_money_in_bank 5 1
+calc_money_in_bank 5 3
+calc_all_money 5
+calc_all_money 1
+calc_all_money 6
+calc_all_money 2
+create_short_term_deposit 5 1 8000
+create_short_term_deposit 2 1 9000
+create_short_term_deposit 1 4 10000
+create_short_term_deposit 3 2 13000
+create_long_term_deposit 3 2 1 2 8000
+create_short_term_deposit 2 3 17000
+pass_time 2
+calc_all_money 1
+calc_all_money 2
+calc_all_money 3
+calc_all_money 4
+calc_all_money 5
+calc_all_money 6
+inventory_report 1 1 1
+inventory_report 6 3 2
+inventory_report 3 2 1

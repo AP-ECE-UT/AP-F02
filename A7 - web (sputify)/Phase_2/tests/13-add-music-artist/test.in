@@ -1,0 +1,6 @@
+POST signup ? username <Misagh> password <meow> mode <artist>
+POST logout ?
+POST login ? username <Misagh> password <meow>
+POST music ? title <Song 1> path <~/Song1.mp3> year <2021> album <meow-meow> tags <instrumental;classic> duration <00:03:12>
+POST music ? title <Song 2> path <~/Song2.mp3> year <2022> album <meow-meow> tags <instrumental;classic> duration <00:03:22>
+POST music ? title <Song 3> path <~/Song3.mp3> year <2023> album <meow-meow> tags <instrumental> duration <00:03:33>

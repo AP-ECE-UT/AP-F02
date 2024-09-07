@@ -1,0 +1,5 @@
+POST signup ? username <Misagh> password <meow> mode <user>
+POST logout ?
+POST login ? username <Misagh> password <meow>
+POST playlist ? name <Rock n Roll>
+POST playlist ? name <Rock n Roll>

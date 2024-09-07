@@ -1,0 +1,10 @@
+create_short_term_deposit 1 1 1000
+create_short_term_deposit 1 1 1000
+create_short_term_deposit 2 1 82787
+create_short_term_deposit 4 1 3000
+create_long_term_deposit 4 1 2 1 6500
+create_gharzolhasane_deposit 6 3 2000
+inventory_report 1 1 1
+inventory_report 2 1 1
+inventory_report 4 1 2
+inventory_report 4 3 2

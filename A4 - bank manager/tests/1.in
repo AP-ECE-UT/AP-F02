@@ -1,0 +1,6 @@
+create_short_term_deposit 1 1 1000
+create_short_term_deposit 1 1 1000
+create_short_term_deposit 2 1 10000000
+create_short_term_deposit 2 1 1000
+create_long_term_deposit 2 1 2 3 4500
+create_gharzolhasane_deposit 3 2 2000

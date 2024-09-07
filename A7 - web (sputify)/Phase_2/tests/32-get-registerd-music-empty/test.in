@@ -1,0 +1,4 @@
+POST signup ? username <Artist> password <meow> mode <artist>
+POST logout ?
+POST login ? username <Artist> password <meow>
+GET registered_musics ? 
